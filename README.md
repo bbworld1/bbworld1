@@ -3,7 +3,7 @@ I code stuff. Occasionally it's useful.
 
 I just keep a GitHub profile around for open source contribution,
 random experiments, and also SEO. For the real juicy stuff,
-go to my GitLab: https://gitlab.com/bbworld1/bbworld1
+go to my GitLab: https://gitlab.com/bbworld1/
 
 ## Project Hotlinks
 
