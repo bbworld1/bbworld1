@@ -18,6 +18,9 @@ go to my GitLab: https://gitlab.com/bbworld1/bbworld1
 ## Contact Info
 
 GitLab: [@bbworld1](https://gitlab.com/bbworld1)
+
 Sourcehut: [~bbworld1](https://sr.ht/~bbworld1/)
+
 Medium: [@vwangsf](https://medium.com/@vwangsf/)
+
 Email: vwangsf@gmail.com
