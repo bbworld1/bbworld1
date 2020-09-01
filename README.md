@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there.
+I code stuff. Occasionally it's useful.
 
-<!--
-**bbworld1/bbworld1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I just keep a GitHub profile around for open source contribution,
+random experiments, and also SEO. For the real juicy stuff,
+go to my GitLab: https://gitlab.com/bbworld1/bbworld1
 
-Here are some ideas to get you started:
+## Project Hotlinks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Bibify open source citation generator project](https://bibify.org)
+    - Production deployment: https://bibify.org
+    - Frontend source & docs: https://gitlab.com/bibify/bibify
+    - Frontend source & docs: https://gitlab.com/bibify/bibserver
+- [Trollformatter](https://gitlab.com/bbworld1/trollformatter)
+- [ushot camera script](https://gitlab.com/bbworld1/ushot)
+- [Checkbox.css](https://gitlab.com/bbworld1/checkbox.css)
+
+## Contact Info
+
+GitLab: [@bbworld1](https://gitlab.com/bbworld1)
+Sourcehut: [~bbworld1](https://sr.ht/~bbworld1/)
+Medium: [@vwangsf](https://medium.com/@vwangsf/)
+Email: vwangsf@gmail.com
